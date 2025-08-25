@@ -2,6 +2,8 @@
 An automated tool to collect, filter, and organize potential business leads for targeted outreach campaigns.
 
 ## About
+Best understand for feature 
+
 
 **lead-generation** helps you create commits on your GitHub profile for any date in the past. Whether you want to fill up your contribution graph or even make cool patterns and artwork.
 
