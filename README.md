@@ -37,6 +37,7 @@ So, you've got the basics down. What's next?
 - **Custom Patterns:** Experiment with different patterns on your contribution graph. Maybe spell out your name or create some cool designs.
 - **Density Control:** Play around with the number of commits per day to adjust the shades of green.
 - **Input Strings:** Convert input strings to X-Y mapped contributions.
+- Define your target audience to ensure focused outreach.
 
 ## npm Modules Used
 
