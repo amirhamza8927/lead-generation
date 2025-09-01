@@ -1,5 +1,6 @@
 # lead-generation
 An automated tool to collect, filter, and organize potential business leads for targeted outreach campaigns.for  successful  life
+Its features, such as trigonometry, logarithms, exponentials, and statistical calculations, significantly enhance problem-solving efficiency.
 
 ## About
 Best understand for feature 
